@@ -1,0 +1,37 @@
+.coneption{
+    max-width: 400px;
+}
+
+.toka{
+    position: absolute;
+    right: 0;
+    margin-top: -400px;
+    width: 700px;
+}
+
+.gosple {
+    top: 150px;
+    font-size:28px;
+}
+
+.bone-zone{
+    max-width: 60%;
+    font-size:22px;
+}
+
+.treat-vault {
+    max-width: 70%;
+    font-size:22px;
+}
+.commandments {
+    max-width: 90%; 
+    font-size:22px;
+}
+.bare-bones {
+    max-width: 90%; 
+    font-size:22px;
+}
+.join-pack{
+    max-width: 90%; 
+    font-size:22px;
+}
